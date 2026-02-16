@@ -1,0 +1,12 @@
+server:
+  port: 0
+
+spring:
+  datasource:
+    url: jdbc:h2:mem:orders
+    driver-class-name: org.h2.Driver
+    username: sa
+    password: password
+
+message:
+  greeting: Hello from Order Service Config

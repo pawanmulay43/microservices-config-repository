@@ -1,0 +1,5 @@
+server:
+  port: 0
+
+inventory:
+  default-stock: 100
