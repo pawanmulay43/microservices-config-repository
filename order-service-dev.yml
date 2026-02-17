@@ -9,4 +9,4 @@ spring:
     password: password
 
 message:
-  greeting: Hello from Order Service Config
+  greeting: Hello from Order Service Config from dev
